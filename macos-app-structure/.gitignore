@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Xcode
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.xcresult
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+
+# Swift / local build output
+.build/
+.build-release/
+buildServer.json

@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS App Structure"
+  short_description: "整理原生 macOS App 工程、源码分组、资源和测试"
+  default_prompt: "Use $macos-app-structure to create or refactor this macOS app using a standard native Xcode project structure."
