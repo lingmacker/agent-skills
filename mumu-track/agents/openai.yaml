@@ -1,0 +1,4 @@
+interface:
+  display_name: "MuMu Track"
+  short_description: "MuMu 模型、启动冻结、镜像与原生长测及DMG导出方法"
+  default_prompt: "使用 $mumu-track 按当前证据分流模型、启动、Guest和宿主输入故障，核对ABI/调用者/镜像，最小修改并真实计时分层验收；核验正常退出确认、DMG挂载身份及专属残留清理，保留真实错误与userdata，不打包补丁等文件到skill。"
