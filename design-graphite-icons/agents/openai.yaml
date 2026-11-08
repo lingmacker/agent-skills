@@ -1,0 +1,4 @@
+interface:
+  display_name: "石墨黑白橙通用图标风格"
+  short_description: "通用石墨黑白橙图标风格，默认多版对比并由用户选择最终方案"
+  default_prompt: "使用 $design-graphite-icons，为当前场景同时设计多版石墨黑白橙图标，提供编号可视对比，等我选择后再定稿。"
